@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Helloworld</string>
     <string name="app_button">Press me</string>
+    <string name="app_support">Thanks for your support</string>
+    <string name="app_input">Please input your phone number</string>
+    <string name="app_press">Press me</string>
+    <string name="app_star">Star me</string>
+    <string name="app_logo">logo</string>
+    <string name="star">star</string>
 </resources>
